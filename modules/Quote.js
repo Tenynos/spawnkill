@@ -192,7 +192,7 @@ SK.moduleConstructors.Quote.prototype.addToResponseThenFocus = function(citation
 /* Options modifiables du plugin */
 SK.moduleConstructors.Quote.prototype.settings = {
     partialQuote: {
-        title: "Citations partielles",
+        title: "CEEEitations partielles",
         description: "Permet de ne citer qu'une partie d'un post en sélectionnant le texte avec la souris.",
         type: "boolean",
         default: true,
